@@ -4,7 +4,7 @@ public class Addition{
         int x,y;
         x = 2;
         y = 3;
-        int sum = x+y;
-        System.out.println("The sum is :"+ sum);
+      //  int sum = x+y;
+        System.out.println("The sum is :"+ (x+y));
     }
 }
