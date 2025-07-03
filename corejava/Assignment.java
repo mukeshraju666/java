@@ -11,17 +11,20 @@ public class Assignment{
         int x,y;
         x = 3;
         y = 5;
-        // sum of two numbers
-        System.out.println("sum of two integers is :"+(x+y));
 
-        // Differnce of two numbers
-        System.out.println("The differnce of two integers is :"+(x-y));
 
-        // Product of two numbers
-        System.out.println("Product of two numbers is :"+(x*y));
+        System.out.println("sum is :"+(x+y) + " " + " " +"differnce is :"+(x-y) + " " + " " +"product is :"+(x*y) + " "  + " " +"division is :"+(x/y));      
+         // // sum of two numbers
+        // System.out.println("sum of two integers is :"+(x+y));
 
-        //Division of two numbers 
-        System.out.println("Division of two numbers is :"+(x/y));
+        // // Differnce of two numbers
+        // System.out.println("The differnce of two integers is :"+(x-y));
+
+        // // Product of two numbers
+        // System.out.println("Product of two numbers is :"+(x*y));
+
+        // //Division of two numbers 
+        // System.out.println("Division of two numbers is :"+(x/y));
         
         // declaring a default variables
         System.out.println(Name);
