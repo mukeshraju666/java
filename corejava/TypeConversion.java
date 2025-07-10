@@ -1,7 +1,7 @@
 package  corejava;
 class TypeConversion{
     public static void main(String []args){
-        // Type conversion (Wideing)
+        // Type conversion (Wideing) (int to int)
         int num1 = 34;
         double num2 = num1;
         System.out.println(num2); 
